@@ -444,7 +444,8 @@ namespace AssetBundleBrowser
             N3DS = 35,
             WiiU = 36,
             tvOS = 37,
-            Switch = 38
+            Switch = 38,
+            EmbeddedLinux = 45,
         }
 
         [System.Serializable]
